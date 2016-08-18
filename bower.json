@@ -1,0 +1,17 @@
+{
+    "name": "clara-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Proyecto Demo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/clara-bower.git"
+    },
+    "description": "Clara font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
